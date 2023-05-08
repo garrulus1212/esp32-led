@@ -1,0 +1,44 @@
+# Arduino specific files
+*.hex
+*.elf
+*.bin
+*.eep
+*.map
+*.lst
+*.sym
+*.lss
+*.o
+*.a
+*.d
+*.cpp.hex
+*.cpp.elf
+*.cpp.bin
+*.cpp.eep
+*.cpp.map
+*.cpp.lst
+*.cpp.sym
+*.cpp.lss
+*.cpp.o
+*.cpp.a
+*.cpp.d
+
+# Build files
+build/
+bin/
+
+# IDE specific files
+.vscode/
+.idea/
+*.sublime-*
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# Miscellaneous
+Thumbs.db
+.DS_Store
+
